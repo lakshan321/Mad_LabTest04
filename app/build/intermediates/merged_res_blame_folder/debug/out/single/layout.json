@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.notesapplication.app-mergeDebugResources-30:/layout/note_item.xml",
+        "source": "com.example.notesapplication.app-main-33:/layout/note_item.xml"
+    },
+    {
+        "merged": "com.example.notesapplication.app-mergeDebugResources-30:/layout/activity_add_note.xml",
+        "source": "com.example.notesapplication.app-main-33:/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "com.example.notesapplication.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.notesapplication.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notesapplication.app-mergeDebugResources-30:/layout/activity_update_note.xml",
+        "source": "com.example.notesapplication.app-main-33:/layout/activity_update_note.xml"
+    }
+]

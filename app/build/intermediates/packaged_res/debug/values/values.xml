@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#F6F2F2</color>
+    <color name="purple">#124004</color>
+    <color name="white">#121212</color>
+    <string name="app_name" translatable="false">Notes Application</string>
+    <style name="Base.Theme.NotesApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/purple</item>
+        <item name="android:statusBarColor">@color/purple</item>
+    </style>
+    <style name="Theme.NotesApplication" parent="Base.Theme.NotesApplication"/>
+</resources>

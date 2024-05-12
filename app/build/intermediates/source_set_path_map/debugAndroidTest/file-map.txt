@@ -1,0 +1,6 @@
+com.example.notesapplication.test.app-annotation-experimental-1.4.0-0 C:\Users\awala\.gradle\caches\transforms-3\935ca2afead505062205016701139742\transformed\annotation-experimental-1.4.0\res
+com.example.notesapplication.test.app-core-1.5.0-1 C:\Users\awala\.gradle\caches\transforms-3\a398584d6b5cd441ab396e8538531035\transformed\core-1.5.0\res
+com.example.notesapplication.test.app-androidTest-2 C:\Users\awala\Desktop\Notes App\Notes-App\app\build\generated\res\resValues\androidTest\debug
+com.example.notesapplication.test.app-mergeDebugAndroidTestResources-3 C:\Users\awala\Desktop\Notes App\Notes-App\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.notesapplication.test.app-mergeDebugAndroidTestResources-4 C:\Users\awala\Desktop\Notes App\Notes-App\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.notesapplication.test.app-merged_res-5 C:\Users\awala\Desktop\Notes App\Notes-App\app\build\intermediates\merged_res\debugAndroidTest
